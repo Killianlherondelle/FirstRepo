@@ -1,2 +1,3 @@
 nouveau doc!
-Il ne contiendra rien de spécial...ce n'est pas grave c'est pour apprendre!
+Il ne contiendra rien de spÃ©cial...ce n'est pas grave c'est pour apprendre!
+Modification depuis Github! On va venir pull avec le terminal en local!
